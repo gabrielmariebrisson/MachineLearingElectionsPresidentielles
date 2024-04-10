@@ -1,0 +1,2 @@
+AutreData/crimes_communes_2022.csv filter=lfs diff=lfs merge=lfs -text
+Carte/communes-20220101.shp filter=lfs diff=lfs merge=lfs -text
