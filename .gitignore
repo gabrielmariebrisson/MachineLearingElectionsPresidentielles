@@ -7,3 +7,5 @@
 # Ignorer les fichiers générés par Jupyter Notebook
 .ipynb_checkpoints/
 
+#Ignorer les models 
+*.h5
