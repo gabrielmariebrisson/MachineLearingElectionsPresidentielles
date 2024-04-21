@@ -9,3 +9,4 @@
 
 #Ignorer les models 
 *.h5
+*.keras
