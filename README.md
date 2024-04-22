@@ -10,3 +10,4 @@ conda install anaconda::xlrd
 conda install anaconda::pandas 
 conda install anaconda::scikit-learn 
 conda install -c conda-forge statsmodels
+conda install geopandas
